@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Visit on Weather-App -
+
+https://jainanmol744-weather-app.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
